@@ -41,5 +41,9 @@ pip install -r requirements-dev.txt
 pytest -vv --cov=migaku_wiktionary
 ```
 
+<<<<<<< HEAD
 This file changed to others.
 Okay
+=======
+You can change this file successfully.
+>>>>>>> 83da5adda5a65d6242d8b24f2a58acd4d2d02231

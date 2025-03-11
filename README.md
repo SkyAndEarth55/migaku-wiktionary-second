@@ -42,3 +42,4 @@ pytest -vv --cov=migaku_wiktionary
 ```
 
 This file changed to others.
+Okay

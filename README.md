@@ -40,3 +40,5 @@ The project is backed by a test suite. Run it with the following command:
 pip install -r requirements-dev.txt
 pytest -vv --cov=migaku_wiktionary
 ```
+
+You can change this file successfully.
